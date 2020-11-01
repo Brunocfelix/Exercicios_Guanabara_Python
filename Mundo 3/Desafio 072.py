@@ -11,5 +11,4 @@ while True:
         break
     print('Tente novamente... ', end='')
 print(f'Você digitou o número {numeros[digiteum]}.')
-
-
+continuar = str(input('Você quer continuar? [S/N] ' ).upper[0]
